@@ -12,7 +12,7 @@ public class TwoSum {
                     arr[1] = j;
                 }
             }
-        }
+        } 
         return arr;
     }
 
