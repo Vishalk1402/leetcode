@@ -1,66 +1,123 @@
-🚀 LeetCode Community Solutions
+# 🚀 LeetCode Community Solutions
 
-A beginner‑friendly open source repository to practice Data Structures & Algorithms by contributing LeetCode solutions in multiple languages.
+> A collaborative open‑source repository where students learn Data Structures & Algorithms by contributing clean and well‑explained LeetCode solutions.
 
-🌟 Why Contribute?
+---
 
-Build your GitHub profile
+## 🏅 Badges
 
-Practice DSA consistently
+---
 
-Learn clean coding standards
+## 📚 About This Repository
 
-Get featured as a contributor
+This project helps students:
 
-Help other students learn
+* Practice Data Structures & Algorithms
+* Understand optimized approaches
+* Build GitHub contribution graph
+* Learn Open Source collaboration
 
-📂 Repository Structure
-/Java
-/Python
-/CPP
+Each problem includes:
 
-Each file must contain:
+* Problem link
+* Clean solution
+* Time & Space complexity
+* Beginner‑friendly code
 
-Problem Name
+---
 
-LeetCode Link
+## 📂 Folder Structure
 
-Time Complexity
-
-Space Complexity
+```
+Java/
+Python/
+CPP/
+```
 
 Example:
 
-/Java/TwoSum.java
-/Python/TwoSum.py
+```
+Java/TwoSum.java
+Python/TwoSum.py
+CPP/TwoSum.cpp
+```
 
-🧠 Languages Accepted
+---
 
-Java ☕
-Python 🐍
-C++ 💻
-More can be added later
+## ✍️ Solution Format
 
-🛠 How to Contribute:
-1.Fork the repository
-2.Clone your fork
-3.Create a new branch
-4.Add your solution
-5.Commit changes
-6.Push branch
-7.Create Pull Request
-8.Read detailed rules in CONTRIBUTING.md
+Every solution file must start with:
 
-🏆 Contributors
+```java
+// Problem: Two Sum
+// Link: https://leetcode.com/problems/two-sum/
+// Difficulty: Easy
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+```
 
-Thanks to these amazing people ❤️
+---
 
+## 🤝 How to Contribute
 
+1. Fork the repository
+2. Clone your fork
+3. Create a new branch
+4. Add your solution
+5. Commit changes
+6. Push branch
+7. Create Pull Request
 
+📄 Detailed guide → See `CONTRIBUTING.md`
 
+---
 
-📢 Community
+## ⭐ Contribution Rules
 
-If you like this project, give it a ⭐ and share with friends!
+* No duplicate solutions
+* Follow folder structure
+* Clean readable code only
+* Add complexity analysis
+* One problem per PR
 
-Happy Coding 🚀
+---
+
+## 🧠 Languages Accepted
+
+* Java ☕
+* Python 🐍
+* C++ 💻
+
+(More languages coming soon)
+
+---
+
+## 🏆 Contributors
+
+Thanks to all amazing contributors ❤️
+
+(Add GitHub contributor graph after first PR merge)
+
+---
+
+## 🌟 Support
+
+If this repository helps you:
+
+⭐ Star the repo
+🍴 Fork it
+📢 Share with friends
+
+---
+
+## 📬 Connect
+
+Follow for coding help & shoutouts:
+
+Instagram: 
+
+[https://www.instagram.com/javawithvk/](https://www.instagram.com/javawithvk/)
+
+---
+
+> "Consistency + Community = DSA Mastery" 🔥
