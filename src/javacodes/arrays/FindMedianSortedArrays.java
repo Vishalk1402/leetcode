@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class FindMedianSortedArrays {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] num = new int[nums1.length + nums2.length];
+        int[] num = new int[nums1.length + nums2.length]; 
         for (int i = 0; i < nums1.length; i++) {
             num[i] = nums1[i];
         }
