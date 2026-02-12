@@ -6,6 +6,8 @@
 
 ## 🏅 Badges
 
+> Vishalk1402/leetcode
+
 ---
 
 ## 📚 About This Repository
@@ -96,7 +98,7 @@ Every solution file must start with:
 
 Thanks to all amazing contributors ❤️
 
-(Add GitHub contributor graph after first PR merge)
+> Vishalk1402/leetcode
 
 ---
 
