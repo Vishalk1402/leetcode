@@ -6,7 +6,14 @@
 
 ## 🏅 Badges
 
-> Vishalk1402/leetcode
+![Stars](https://img.shields.io/github/stars/Vishalk1402/leetcode?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Vishalk1402/leetcode?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Vishalk1402/leetcode?style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr/Vishalk1402/leetcode?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Vishalk1402/leetcode?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Vishalk1402/leetcode?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Vishalk1402/leetcode?style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Vishalk1402\&repo=leetcode\&style=for-the-badge)
 
 ---
 
@@ -98,7 +105,7 @@ Every solution file must start with:
 
 Thanks to all amazing contributors ❤️
 
-> Vishalk1402/leetcode
+![Contributors Graph](https://contrib.rocks/image?repo=Vishalk1402/leetcode)
 
 ---
 
