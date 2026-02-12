@@ -1,107 +1,161 @@
-# 🤝 Contributing to LeetCode Solutions Repository
+# 🤝 Contributing to LeetCode Community Solutions
 
-First of all, thank you for your interest in contributing! 🚀  
-This repository is created to help students learn, practice, and grow together by sharing LeetCode solutions.
+Thank you for your interest in contributing! 🚀
+This repository is built to help students learn Data Structures & Algorithms by sharing clean, readable, and well-explained LeetCode solutions.
 
-Please follow the guidelines below to keep the repository clean and organized.
-
----
-
-## 📌 Contribution Guidelines
-
-### ✅ 1. Before You Start
-
-- Make sure the problem is not already added.
-- Check if your solution follows clean coding standards.
-- Add proper comments and explanation.
+Please read the guidelines carefully before submitting a Pull Request.
 
 ---
 
-## 📂 2. Folder Structure
+## 📌 Before You Start
 
-Please follow this structure strictly:
-
-/Javacode/type/ProblemName.java
-/Python/type/ProblemName.py
-/CPP/type/ProblemName.cpp
-
-Example:
-/Java/math/Palindrome.java
-/Python/math/Palindrome.py
-
-
-If the language folder does not exist, create one.
+* Check if the problem already exists in the repository
+* Follow the folder structure strictly
+* Write clean and readable code
+* Add comments wherever necessary
+* Mention Time & Space Complexity
 
 ---
 
-## 🧠 3. File Format
+## 📂 Folder Structure
 
-At the top of your file, include:
+We follow **Topic-based organization**:
+
+```
+/Java/<Topic>/ProblemName.java
+/Python/<Topic>/ProblemName.py
+/CPP/<Topic>/ProblemName.cpp
+```
+
+### Example
+
+```
+/Java/Arrays/TwoSum.java
+/Python/Math/Palindrome.py
+/CPP/LinkedList/ReverseLinkedList.cpp
+```
+
+If a topic folder does not exist → create it.
+
+---
+
+## 🧠 Solution File Format
+
+Every solution file MUST start with:
 
 ```java
 // Problem: Two Sum
 // Link: https://leetcode.com/problems/two-sum/
+// Topic: Arrays
 // Difficulty: Easy
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 ```
 
+---
 
+## 🌿 Branch Naming Rule
 
-🌿 4. Branch Naming Rule
-Do NOT commit directly to the main branch with your name
+Do NOT commit directly to the `main` branch.
 
+Create a branch using this format:
 
-🛠 5. Steps to Contribute
+```
+add-problemname-language
+```
+
+### Examples
+
+```
+add-two-sum-java
+add-valid-parentheses-python
+add-reverse-linkedlist-cpp
+```
+
+---
+
+## 🛠 Steps to Contribute
 
 1. Fork the repository
-
 2. Clone your fork
-
 3. Create a new branch
-
 4. Add your solution
+5. Commit changes
+6. Push branch
+7. Create Pull Request
 
-5. Commit your changes
+---
 
-6. Push your branch
+## 📝 Commit Message Format
 
-7. Create a Pull Request (PR)
+```
+Added <Problem Name> in <Language>
+```
 
-📝 6. Commit Message Format: 
-Use meaningful commit messages:
-Example: 
-Added Two Sum solution in Java
-Added Merge Intervals solution in Python
+### Examples
 
-🚫 7. Rules & Restrictions
+```
+Added Two Sum in Java
+Added Merge Intervals in Python
+Added Binary Search in C++
+```
 
-❌ No duplicate solutions
-❌ No plagiarism
-❌ No unnecessary files
-❌ No changes to others’ code without permission
-❌ No committing to main branch
+---
 
-🏆 8. What Makes a Good PR?
+## 🔀 Pull Request Title Format
+
+```
+[Language] Problem Name - Topic
+```
+
+### Examples
+
+```
+[Java] Two Sum - Arrays
+[Python] Valid Parentheses - Stack
+[C++] Reverse Linked List - LinkedList
+```
+
+---
+
+## ⚠️ Pull Request Rules
+
+* One Pull Request = One Problem
+* No duplicate solutions
+* Do not modify existing solutions
+* Do not upload unnecessary files
+* Code must compile/run correctly
+* Follow naming conventions strictly
+
+PRs violating rules may be closed without review.
+
+---
+
+## 🏆 What Makes a Good PR?
 
 ✔️ Clean and readable code
 ✔️ Proper indentation
 ✔️ Correct folder placement
-✔️ Mentioned Time & Space Complexity
+✔️ Complexity analysis included
 ✔️ Proper PR description
 
-🌟 Recognition
+---
+
+## 🌟 Recognition
 
 All contributors will be:
 
-Listed in the README Contributors section
-Eligible for shoutout on Instagram 🎉
+* Added to the Contributors section
+* Eligible for Instagram shoutout 🎉
 
+---
 
-💬 Need Help?
+## 💬 Need Help?
 
 If you're stuck:
 
-Open an issue
-Comment on existing issue
-DM on Instagram
+* Open an issue
+* Comment on an existing issue
+* Contact via Instagram
+
+Let’s grow and learn together 🚀
